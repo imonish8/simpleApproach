@@ -1,0 +1,67 @@
+.Container{
+ display: flex;
+ justify-content: Center;
+ align-items: center;
+ padding: 25px;
+ height: 90vh;
+ background:linear-gradient(45deg,beige,skyblue)
+ }
+
+ .Container form{
+    padding: 25px;
+    width: 700px;
+    background: linear-gradient(270deg,rgb(114, 151, 189),rgb(238, 238, 192));
+    
+ }
+ .Container form.row{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+ }
+ .Container form.row.col
+{
+    flex:1 1 250px;
+
+}
+.title{
+    font-size: 25px;
+    
+    padding-bottom:2px;
+    text-transform: uppercase;
+
+}
+.Container form.row.col.inputBox{
+    margin: 15px 0;
+
+}
+.Container form.row.col span{
+    margin-bottom: 50px;
+    display: block;
+    
+}
+.Container form.row.col.input{
+ width: 100%;
+ border: 10px solid #ccc;
+ padding: 15px 10px;
+ font-size: 15px;
+ text-transform: none;
+}
+
+.Container form.row.col.input.flex{
+    display: flex;
+    gap: 15px;
+}
+.Container form.row.col.inputBox img{
+    height: 30px;
+    margin-top: 10px;
+    filter: drop-shadow(0 0  1px black);
+}
+.Container form.submit-btn{
+    width: 100px;
+    padding: 20px;
+    font-size: 17px;
+    background: black;
+    color: blue;
+    margin-top: 5px;
+    cursor: pointer;
+}
