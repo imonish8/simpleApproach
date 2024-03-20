@@ -1,28 +1,52 @@
-- 👋 Hi, I’m Monish Nule
-- 👀 I’m interested in Java, Web Dev, React, PHP.
-- 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Web Dev Projects.
-- 📫 How to reach me MAIL : imonishnule8@gmail.com
+
+## My First Vanilla HTML and CSS [Payment Gateway Page](https://payment-gold-bay.vercel.app)
 
 
-<h1 align="center">Hi 👋, I'm Monish Nule</h1>
-<h3 align="center">A passionate Computer Science Enthusiatic,</h3>
-I am Monish from India .A 4th Year undergraduate pursuing my B.Tech in Electronics And Telecom. from Modern Education Society College of Engineering, Pune.I really enjoy learning languages and various technologies related Web Development,Machine learning ,Data Science. As well as I love solving coding problems.
+<img width="1440" alt="Screenshot 2024-03-21 at 12 18 26 AM" src="https://github.com/imonish8/simpleApproach/assets/115737071/55ff1541-3d93-4df5-948c-febde3965008">
 
-- 🌱 I’m currently learning *Django*
 
-- 📫 How to reach me *imonishnule8@gmail.com*
+This repository contains my first attempt at creating a payment gateway page using only Vanilla HTML and CSS. The page is designed to provide a simple and intuitive interface for users to make payments.
 
-- ⚡ Fun fact *Love at first sight with java*
+### Features:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/monish-n-137813210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/monish-n-137813210/" height="30" width="40" /></a>
-<a href="https://instagram.com/fasswolf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/fasswolf/" height="30" width="40" /></a>
-<a href="https://twitter.com/iMonish8" target="blank"><img align="center" src="https://github.com/imonish8/logos/blob/main/cdnlogo.com_twitter-icon.svg" alt="https://twitter.com/iMonish8" height="30" width="40" /></a>
+1. **Clean and Simple Design**: The page features a clean and minimalist design to ensure ease of use for users.
 
-</p>
+2. **Payment Form**: A payment form is included where users can input their payment details such as card number, expiry date, CVV, and billing address.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+3. **Validation**: Basic validation is implemented to ensure that users enter valid information before submitting the payment form.
 
+4. **Responsive Design**: The page is designed to be responsive, providing a consistent and user-friendly experience across various devices and screen sizes.
+
+### Usage:
+
+To use this payment gateway page:
+
+1. Clone or download the repository to your local machine.
+
+2. Open the `index.html` file in a web browser to view the payment page.
+
+3. Input your payment details into the form fields.
+
+4. Submit the form to process the payment (Note: This is a demo page and does not process actual payments).
+
+### Customization:
+
+The HTML and CSS code provided can be easily customized to suit your specific needs and preferences. You can modify the layout, colors, fonts, and content as desired.
+
+### Credits:
+
+- For now Me, You can too Contribute.
+
+### License:
+
+This project is licensed under the [MIT License](LICENSE).
+
+### Demo:
+
+[Link to live demo or screenshot](https://payment-gold-bay.vercel.app)
+
+### Feedback and Contributions:
+
+Feedback and contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to submit a pull request or open an issue on GitHub.
+
+Thank you for checking out my First Vanilla HTML and CSS Payment Gateway Page! We hope it serves as a helpful starting point for your web development journey.
